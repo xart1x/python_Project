@@ -1,2 +1,2 @@
 print("hello world")
-print("billie eilish")
+print("billie eilish is a good singer")
